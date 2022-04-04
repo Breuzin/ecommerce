@@ -13,9 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.guilinares.ecommerce.domain.Categoria;
 import com.guilinares.ecommerce.domain.Pedido;
-import com.guilinares.ecommerce.dto.CategoriaDTO;
 import com.guilinares.ecommerce.services.PedidoService;
 
 @RestController
